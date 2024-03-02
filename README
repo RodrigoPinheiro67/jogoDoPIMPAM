@@ -1,0 +1,15 @@
+# The PIM PAM Game
+
+> Do you know the Pim Pam Game?
+
+Read the rules to understand it: To play, you must form a circle of people, each one, in turn, says the number in the sequence of natural numbers, starting from 1 to 60 (for example). First, two numbers from 2 to 10 are chosen. The challenge is to count from 1 to 60, but it is prohibited to say the multiples of each chosen number. Instead of them, we say PIM, for the multiples of the first chosen number, or PAM, for the multiples of the second. When the number is a common multiple between the two chosen numbers, PIM PAM must be said. For example, if the numbers 4 and 6 are chosen: ● For multiples of 4, we say PIM, ● For multiples of 6, we say PAM, ● For common multiples between 4 and 6, we say PIM PAM.
+>## The Program
+-  This program, developed in Go, simulates the pim pam game, with a count setting up to 100, and multiples of 3 (PIM) and 5 (PAM).
+
+ Clone the project locally:
+
+```sh
+$ git@github.com:RodrigoPinheiro67/jogoDoPIMPAM.git
+```
+
+
